@@ -34,7 +34,7 @@ EncryptXpert/
  ├── requirements.txt      # Required Python packages
  └── /images               # Screenshots
 
- ⚙️ Technical Stack
+ ## ⚙️ Technical Stack
 
 Python 3.9+
 
@@ -109,14 +109,14 @@ Nonce → the one generated during encryption
 
 Click Decrypt
 
-🧠 Architecture Overview
+## 🧠 Architecture Overview
 
 Frontend: PyQt5 GUI
 Backend: Python + PyCryptodome
 Encryption Engine: AES-EAX / AES-GCM
 Key Store (optional): Local DB for storing key–nonce pairs
 
-📄 License
+## 📄 License
 
 This project is licensed under MIT License — free to use, modify, and distribute.
 
@@ -124,4 +124,5 @@ This project is licensed under MIT License — free to use, modify, and distribu
 
 Developed by Dhanu H. N
 Guided by Mrs. Vidya H. A
+
 
