@@ -1,10 +1,10 @@
-🔐 EncryptXpert – Secure File Protection Using AES Algorithm
+# 🔐 EncryptXpert – Secure File Protection Using AES Algorithm
 
 EncryptXpert is a cross-platform file encryption and decryption tool built using Python, PyCryptodome, and PyQt5.
 It allows users to securely protect any file using industry-standard AES encryption modes such as AES-EAX and AES-GCM.
 The tool provides both a Graphical User Interface (GUI) and a Command-Line Interface (CLI), making it suitable for both beginners and advanced users.
 
-⭐ Features
+## ⭐ Features
 
 AES-EAX and AES-GCM authenticated encryption
 
@@ -124,3 +124,4 @@ This project is licensed under MIT License — free to use, modify, and distribu
 
 Developed by Dhanu H. N
 Guided by Mrs. Vidya H. A
+
