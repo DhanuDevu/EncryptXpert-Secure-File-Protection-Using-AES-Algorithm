@@ -122,9 +122,10 @@ This project is licensed under MIT License — free to use, modify, and distribu
 
 ## 🎉 Credits
 
-Developed by Dhanu H. N
+Developed by Dhanush H. N
 <br>
 Guided by Mrs. Vidya H. A
+
 
 
 
