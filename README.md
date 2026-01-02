@@ -120,9 +120,11 @@ Key Store (optional): Local DB for storing key–nonce pairs
 
 This project is licensed under MIT License — free to use, modify, and distribute.
 
-🎉 Credits
+## 🎉 Credits
 
 Developed by Dhanu H. N
+<br>
 Guided by Mrs. Vidya H. A
+
 
 
