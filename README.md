@@ -10,7 +10,7 @@ AES-EAX and AES-GCM authenticated encryption
 
 Supports 128-bit, 192-bit, and 256-bit keys
 
-Automatic nonce generation for secure encryption
+Automatic nonce generation for secure encryption   
 
 Clean & modern PyQt5 GUI
 
@@ -125,6 +125,7 @@ This project is licensed under MIT License — free to use, modify, and distribu
 Developed by Dhanush H. N
 <br>
 Guided by Mrs. Vidya H. A
+
 
 
 
