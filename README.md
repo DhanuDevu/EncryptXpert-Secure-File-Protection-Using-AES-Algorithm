@@ -14,7 +14,7 @@ Automatic nonce generation for secure encryption
 
 Clean & modern PyQt5 GUI
 
-CLI support for automation and scripting
+CLI support for automation and scripting   
 
 Key + Nonce validation for secure decryption
 
