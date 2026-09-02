@@ -6,7 +6,7 @@ The tool provides both a Graphical User Interface (GUI) and a Command-Line Inter
        
 ## ⭐ Features
 
-AES-EAX and AES-GCM authenticated encryption       
+AES-EAX and AES-GCM authenticated encryption           
 
 Supports 128-bit, 192-bit, and 256-bit keys     
 
